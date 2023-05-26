@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "name": "Chocolate",
+            "price": 50,
+            "weight": 100,
+            "available": true
+        },
+        {
+            "name": "Coffee",
+            "price": 100,
+            "weight": 250,
+            "available": false
+        },
+        {
+            "name": "Tea",
+            "price": 70,
+            "weight": 50,
+            "available": true
+        },
+        {
+            "name": "Sugar",
+            "price": 30,
+            "weight": 500,
+            "available": true
+        },
+        {
+            "name": "Candy",
+            "price": 100,
+            "weight": 200,
+            "available": false
+        },
+        {
+            "name": "Water",
+            "price": 30,
+            "weight": 500,
+            "available": true
+        },
+    ]
+}
