@@ -1,0 +1,52 @@
+{
+  "flavors": [
+    {
+      "name": "Chocolate",
+      "available": true
+    },
+    {
+      "name": "Vanilla",
+      "available": false
+    },
+    {
+      "name": "Mint chocolate",
+      "available": true
+    },
+    {
+      "name": "Strawberry",
+      "available": true
+    },
+    {
+      "name": "Mango",
+      "available": true
+    },
+    {
+      "name": "Blueberry",
+      "available": false
+    },
+    {
+      "name": "Caramel",
+      "available": true
+    },
+    {
+      "name": "Banana",
+      "available": true
+    },
+    {
+      "name": "Cookies and Cream",
+      "available": true
+    },
+    {
+      "name": "Coffee",
+      "available": true
+    },
+    {
+      "name": "Nut",
+      "available": true
+    },
+    {
+      "name": "Peach",
+      "available": true
+    }
+  ]
+}
